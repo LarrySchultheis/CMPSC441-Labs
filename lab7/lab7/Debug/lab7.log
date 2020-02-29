@@ -1,0 +1,3 @@
+﻿  lab7.cpp
+D:\GitHub\CMPSC441-Labs\lab7\lab7\lab7.cpp(188): warning C4715: 'terminal_test': not all control paths return a value
+  lab7.vcxproj -> D:\GitHub\CMPSC441-Labs\lab7\Debug\lab7.exe
