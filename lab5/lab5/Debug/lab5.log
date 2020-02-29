@@ -1,0 +1,4 @@
+﻿  lab5.cpp
+D:\PSUSP20\CMPSC441\labs\lab5\lab5\lab5.cpp(50,22): warning C4018: '<': signed/unsigned mismatch
+D:\PSUSP20\CMPSC441\labs\lab5\lab5\lab5.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+  lab5.vcxproj -> D:\PSUSP20\CMPSC441\labs\lab5\Debug\lab5.exe

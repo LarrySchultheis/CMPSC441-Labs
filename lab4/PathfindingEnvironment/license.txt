@@ -1,0 +1,11 @@
+2D Turtle image
+
+Author: Alucard
+http://opengameart.org/content/2d-turtle
+Licensed under Creative Commons 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Pathfinding environment
+
+Author: Richard Zhao
+For Use in CMPSC 441/GAME 450

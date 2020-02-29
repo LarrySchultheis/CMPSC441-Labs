@@ -1,0 +1,2223 @@
+﻿== Log started ==
+== Log stopped ==
+ 
+== Log started ==
+== Log stopped ==
+ 
+== Log started ==
+== Log stopped ==
+ 
+== Log started ==
+== Log stopped ==
+ 
+== Log started ==
+[lab1] How many rounds would you like to play?
+== Log started ==
+[lab1] How many rounds would you like to play?
+[lab1] How many rounds would you like to play?
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Pa[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Pa[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Pa[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+per (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Pa[lab1] Rock (0), Paper (1), or Scissors ([lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+== Log started ==
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+== Log stopped ==
+ 
+[lab1] You lose!
+== Log started ==
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+== Log stopped ==
+ 
+[lab1] It's a tie
+== Log started ==
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+== Log stopped ==
+ 
+== Log started ==
+[lab1] How many rounds would you like to play?
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+[lab1] 2 0
+[lab1] 1 0
+[lab1] 2 0
+== Log stopped ==
+ 
+== Log started ==
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] 2 0
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 2 1
+[lab1] 1 2
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 2 1
+[lab1] 1 2
+== Log stopped ==
+ 
+== Log started ==
+[lab1] How many rounds would you like to play?
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 1 1
+[lab1] 0 1
+[lab1] 1 0
+[lab1] 0 1
+[lab1] 0 0
+[lab1] 1 0
+[lab1] 0 1
+== Log stopped ==
+ 
+== Log started ==
+[lab1] How many rounds would you like to play?
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+== Log stopped ==
+ 
+== Log started ==
+[lab1] How many rounds would you like to play?
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You lose!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] It's a tie
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] You win!
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 0 2
+[lab1] 2 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+[lab1] 1 2
+== Log stopped ==
+ 
+== Log started ==
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+[lab1] Rock (0), Paper (1), or Scissors (2)
+== Log stopped ==
+ 

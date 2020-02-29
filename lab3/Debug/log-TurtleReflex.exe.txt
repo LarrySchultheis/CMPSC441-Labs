@@ -1,0 +1,17 @@
+﻿== Log started ==
+[TurtleReflex] Enter the number of rows:
+[TurtleReflex] Enter the number of columns:
+[TurtleReflex] Enter coordinates for starting location:
+[TurtleReflex] Enter coordinates for goal location:
+[TurtleReflex] Number of obstacles?
+[TurtleReflex] Enter coordinates:
+[TurtleReflex] Enter coordinates:
+[TurtleReflex] Enter coordinates:
+[TurtleReflex] The current grid map looks like this:
+[TurtleReflex] 1 0 0 3 0 
+[TurtleReflex] 0 0 0 0 0 
+[TurtleReflex] 0 3 0 0 3 
+[TurtleReflex] 0 0 0 0 0 
+[TurtleReflex] 0 0 0 0 2 
+== Log stopped ==
+ 
