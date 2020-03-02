@@ -1,3 +1,7 @@
+//Larry Schultheis
+//CMPSC 441
+//Lab 7
+
 #include <time.h>
 #include <iostream>
 #include <vector>
