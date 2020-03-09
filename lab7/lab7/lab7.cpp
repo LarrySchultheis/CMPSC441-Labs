@@ -116,9 +116,6 @@ int terminal_test(vector<vector<int>>& board, int goFirst)
 		}
 	}
 
-	if (!gameOver)
-		return 3;
-
 	//check rows
 	for (int i = 0; i < row; i++)
 	{
@@ -189,6 +186,8 @@ int terminal_test(vector<vector<int>>& board, int goFirst)
 		return 1;
 	else if (gameOver)
 		return 0;
+	else
+		return 3;
 }
 
 bool checkSpace(vector<vector<int>>& board, int row, int col)
@@ -223,6 +222,7 @@ void aiMove(vector<vector<int>>& board, int goFirst)
 			}
 			break;
 		}
+
 	}
 }
 
@@ -250,6 +250,8 @@ void oppoMove(vector<vector<int>>& board, int goFirst)
 			}
 			break;
 		}
+		else
+			cerr << "Space is already occupied" << endl;
 	}
 
 }
