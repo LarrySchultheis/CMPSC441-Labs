@@ -215,3 +215,39 @@
 [lab7] The game is not finished
 == Log stopped ==
  
+== Log started ==
+[lab7] The game is not finished
+[lab7] The game is not finished
+[lab7] The game is not finished
+[lab7] The game is not finished
+== Log stopped ==
+ 
+== Log started ==
+== Log stopped ==
+ 
+== Log started ==
+[lab7] The game is not finished
+[lab7] The game is not finished
+[lab7] The game is not finished
+== Log stopped ==
+ 
+== Log started ==
+[lab7] The game is not finished
+[lab7] The game is not finished
+[lab7] The game is not finished
+== Log stopped ==
+ 
+== Log started ==
+[lab7] The game is not finished
+[lab7] The game is not finished
+[lab7] The game is not finished
+[lab7] The game is not finished
+== Log stopped ==
+ 
+== Log started ==
+[lab7] The game is not finished
+[lab7] The game is not finished
+[lab7] The game is not finished
+[lab7] The game is not finished
+== Log stopped ==
+ 
