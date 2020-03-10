@@ -1,0 +1,44 @@
+﻿== Log started ==
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+== Log stopped ==
+ 
+== Log started ==
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] AI has won
+[lab8] Opponent has won
+== Log stopped ==
+ 
+== Log started ==
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+== Log stopped ==
+ 
+== Log started ==
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] The game is not finished
+[lab8] The game is not finished
+[lab7] AI has won
+[lab8] Opponent has won
+== Log stopped ==
+ 

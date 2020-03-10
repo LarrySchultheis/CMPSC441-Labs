@@ -5,18 +5,25 @@
 #include <time.h>
 #include <iostream>
 #include <vector>
+#include <algorithm>
+
 using namespace std;
 
-int terminal_test(vector<vector<int>>& board, int goFirst);
+int terminal_test(vector<vector<int>>& board);
 bool checkSpace(vector<vector<int>>& board, int row, int col);
 void aiMove(vector<vector<int>>& board, int goFirst);
 void oppoMove(vector<vector<int>>& board, int goFirst);
+pair<int, int> minimax_decision(vector<vector<int>>& board);
+int max_value(vector<vector<int>>& board);
+int min_value(vector<vector<int>>& board);
 
 const int EMPTY = 0;
 const int PLAYX = 1;
 const int PLAYO = 2;
 
-
+int wentFirst;
+int minUtil = 1000;
+int maxUtil = -1000;
 
 int main()
 {
@@ -35,6 +42,7 @@ int main()
 
 
 	cin >> goFirst;
+	wentFirst = goFirst;
 
 	while (true)
 	{
@@ -55,7 +63,7 @@ int main()
 			cerr << "Invalid number for variable 'goFirst'" << endl;
 		}
 
-		int gameCheck = terminal_test(board, goFirst);
+		int gameCheck = terminal_test(board);
 		if (gameCheck == -1)
 		{
 			//oppo wins
@@ -98,7 +106,7 @@ int main()
 // Returns the current state of the board:
 // 1 = AI wins, -1 = opponent wins
 // 0 = tie, 3 = game not finished
-int terminal_test(vector<vector<int>>& board, int goFirst)
+int terminal_test(vector<vector<int>>& board)
 {
 	int row = board.size();
 	int column = board[0].size();
@@ -116,26 +124,23 @@ int terminal_test(vector<vector<int>>& board, int goFirst)
 		}
 	}
 
-	if (!gameOver)
-		return 3;
-
 	//check rows
 	for (int i = 0; i < row; i++)
 	{
 		if (board[i][0] == PLAYX && board[i][1] == PLAYX && board[i][2] == PLAYX)
 		{
-			if (goFirst == 0)
+			if (wentFirst == 0)
 				oppoWin = true;
-			else if (goFirst == 1)
+			else if (wentFirst == 1)
 				aiWin = true;
 			break;
 		}
 
 		if (board[i][0] == PLAYO && board[i][1] == PLAYO && board[i][2] == PLAYO)
 		{
-			if (goFirst == 0)
+			if (wentFirst == 0)
 				aiWin = true;
-			else if (goFirst == 1)
+			else if (wentFirst == 1)
 				oppoWin = true;
 			break;
 		}
@@ -146,18 +151,18 @@ int terminal_test(vector<vector<int>>& board, int goFirst)
 	{
 		if (board[0][i] == PLAYX && board[1][i] == PLAYX && board[2][i] == PLAYX)
 		{
-			if (goFirst == 0)
+			if (wentFirst == 0)
 				oppoWin = true;
-			else if (goFirst == 1)
+			else if (wentFirst == 1)
 				aiWin = true;
 			break;
 		}
 
 		if (board[0][i] == PLAYO && board[1][i] == PLAYO && board[2][i] == PLAYO)
 		{
-			if (goFirst == 0)
+			if (wentFirst == 0)
 				aiWin = true;
-			else if (goFirst == 1)
+			else if (wentFirst == 1)
 				oppoWin = true;
 			break;
 		}
@@ -165,20 +170,20 @@ int terminal_test(vector<vector<int>>& board, int goFirst)
 
 	//check diagonals
 	if ((board[0][0] == PLAYX && board[1][1] == PLAYX && board[2][2] == PLAYX)
-		|| (board[0][2] == PLAYX && board[1][1] == PLAYX && board[2][0] == PLAYX))
+		|| (board[0][2] == PLAYX && board[1][1] == PLAYX && board[2][0] == PLAYX) )
 	{
-		if (goFirst == 0)
+		if (wentFirst == 0)
 			oppoWin = true;
-		else if (goFirst == 1)
+		else if (wentFirst == 1)
 			aiWin = true;
 	}
 
 	if ((board[0][0] == PLAYO && board[1][1] == PLAYO && board[2][2] == PLAYO)
 		|| (board[0][2] == PLAYO && board[1][1] == PLAYO && board[2][0] == PLAYO))
 	{
-		if (goFirst == 0)
+		if (wentFirst == 0)
 			aiWin = true;
-		else if (goFirst == 1)
+		else if (wentFirst == 1)
 			oppoWin = true;
 	}
 
@@ -189,6 +194,8 @@ int terminal_test(vector<vector<int>>& board, int goFirst)
 		return 1;
 	else if (gameOver)
 		return 0;
+	else
+		return 3;
 }
 
 bool checkSpace(vector<vector<int>>& board, int row, int col)
@@ -202,20 +209,24 @@ void aiMove(vector<vector<int>>& board, int goFirst)
 {
 	while (true)
 	{
-		int aiRow = rand() % 3;
-		int aiCol = rand() % 3;
-		if (checkSpace(board, aiRow, aiCol))
+		//int aiRow = rand() % 3;
+		//int aiCol = rand() % 3;
+
+		pair<int, int> newMove = minimax_decision(board);
+		int newX = newMove.first, newY = newMove.second;
+
+		if (checkSpace(board, newX, newY))
 		{
 			//space open
-			cout << aiRow << " " << aiCol << endl;
+			cout << newX << " " << newY << endl;
 
 			if (goFirst == 1)
 			{
-				board[aiRow][aiCol] = PLAYX;
+				board[newX][newY] = PLAYX;
 			}
 			else if (goFirst == 0)
 			{
-				board[aiRow][aiCol] = PLAYO;
+				board[newX][newY] = PLAYO;
 			}
 			else
 			{
@@ -250,6 +261,176 @@ void oppoMove(vector<vector<int>>& board, int goFirst)
 			}
 			break;
 		}
+		else
+			cerr << "Space is already occupied" << endl;
 	}
+}
+
+// minimax decision
+// Returns action with maximum value with coordinates (newR, newC)
+// This function has been partially completed for you
+pair<int, int> minimax_decision(vector<vector<int>>& board)
+{
+	int row = board.size();
+	int column = board[0].size();
+
+	int newR = -1, newC = -1;
+
+	int returnVal = -100;
+	int currentVal = returnVal;
+
+	// for each action a which is row i and column j
+	for (int i = 0; i < row; i++) {
+		for (int j = 0; j < column; j++) {
+
+			if (board[i][j] == EMPTY)
+			{
+				// fill in this part
+				// simulate the action by AI to get the resulting board state -this is RESULT(state,a) in the pseudo-code
+
+								// call min_value on the resulting board to get the value of the board and
+				// keep track of the row newR and column newC of the action with maximum return value				
+
+				// undo the simulated action by setting the board back to original state
+
+				vector<vector<int>> b(row, vector<int>(column, EMPTY));
+				for (int i = 0; i < b.size(); i++)
+				{
+					for (int j = 0; j < b[0].size(); j++)
+					{
+						b[i][j] = board[i][j];
+					}
+				}
+
+				if (wentFirst == 0)
+				{
+					//opponent
+					b[i][j] = PLAYO;
+				}
+				else if (wentFirst == 1)
+				{
+					//AI
+					b[i][j] = PLAYX;
+				}
+				else
+					cerr << "Invalid value for wentFirst" << endl;
+
+				currentVal = min_value(b);
+
+				if (currentVal > returnVal)
+				{
+					newR = i;
+					newC = j;
+					returnVal = currentVal;
+				}
+
+				//for (int i = 0; i < b.size(); i++)
+				//{
+				//	for (int j = 0; j < b[0].size(); j++)
+				//	{
+				//		board[i][j] = b[i][j];
+				//	}
+				//}
+			}
+		}
+	}
+	return pair<int, int>(newR, newC);
+
+}
+
+
+// max value, returns a utility value of 
+// 1 = AI wins / 0 = tie / -1 = opponent wins
+int max_value(vector<vector<int>>& board)
+{
+	int row = board.size();
+	int column = board[0].size();
+
+	if (terminal_test(board) == 1)
+	{
+		//AI wins
+		return 1;
+	}
+	if (terminal_test(board) == -1)
+	{
+		//oppo wins
+		return -1;
+	}
+	if (terminal_test(board) == 0)
+	{
+		//tie
+		return 0;
+	}
+
+	maxUtil = -1000;
+
+	for (int i = 0; i < row; i++)
+	{
+		for (int j = 0; j < column; j++)
+		{
+			if (board[i][j] == EMPTY)
+			{
+				if (wentFirst == 0)
+				{
+					board[i][j] = PLAYX;
+				}
+				else if (wentFirst == 1)
+				{
+					board[i][j] = PLAYO;
+				}
+				maxUtil = max(maxUtil, min_value(board));
+			}
+		}
+	}
+	return maxUtil;
+}
+
+
+
+// min value, returns a utility value of 
+// 1 = AI wins / 0 = tie / -1 = opponent wins
+int min_value(vector<vector<int>>& board)
+{
+	int row = board.size();
+	int column = board[0].size();
+
+	if (terminal_test(board) == 1)
+	{
+		//AI wins
+		return 1;
+	}
+	if (terminal_test(board) == -1)
+	{
+		//oppo wins
+		return -1;
+	}
+	if (terminal_test(board) == 0)
+	{
+		//tie
+		return 0;
+	}
+
+	minUtil = 1000;
+
+	for (int i = 0; i < row; i++)
+	{
+		for (int j = 0; j < column; j++)
+		{
+			if (board[i][j] == EMPTY)
+			{
+				if (wentFirst == 0)
+				{
+					board[i][j] = PLAYX;
+				}
+				else if (wentFirst == 1)
+				{
+					board[i][j] = PLAYO;
+				}
+				minUtil = min(minUtil, max_value(board));
+
+			}
+		}
+	}
+	return minUtil;
 
 }

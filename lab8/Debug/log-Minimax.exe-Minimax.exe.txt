@@ -1,0 +1,415 @@
+﻿== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O - 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Enter your move:
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+[Minimax] X X O 
+[Minimax] O O X 
+[Minimax] X O X 
+== Log stopped ==
+ 
