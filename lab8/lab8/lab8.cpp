@@ -22,8 +22,7 @@ const int PLAYX = 1;
 const int PLAYO = 2;
 
 int wentFirst;
-int minUtil = 1000;
-int maxUtil = -1000;
+
 
 int main()
 {
@@ -279,6 +278,7 @@ pair<int, int> minimax_decision(vector<vector<int>>& board)
 	int returnVal = -100;
 
 	// for each action a which is row i and column j
+
 	for (int i = 0; i < row; i++) {
 		for (int j = 0; j < column; j++) {
 
@@ -291,6 +291,25 @@ pair<int, int> minimax_decision(vector<vector<int>>& board)
 				// keep track of the row newR and column newC of the action with maximum return value				
 
 				// undo the simulated action by setting the board back to original state
+
+				if (wentFirst == 0)
+				{
+					board[i][j] = PLAYO;
+				}
+				else if (wentFirst == 1)
+				{
+					board[i][j] = PLAYX;
+				}
+
+				int temp = min_value(board);
+
+				if (temp >= returnVal)
+				{
+					newR = i;
+					newC = j;
+					returnVal = temp;
+				}
+				board[i][j] = EMPTY;
 			}
 
 		}
@@ -329,14 +348,29 @@ int max_value(vector<vector<int>>& board)
 	}
 	else
 	{
-		maxUtil = -1000;
+		int maxUtil = -1000;
 		for (int i = 0; i < row; i++)
 		{
 			for (int j = 0; j < column; j++)
 			{
-				if (board[i][j] == )
+				if (board[i][j] == EMPTY)
+				{
+					if (wentFirst == 0)
+					{
+						board[i][j] = PLAYO;
+					}
+					else if (wentFirst == 1)
+					{
+						board[i][j] = PLAYX;
+					}
+
+					maxUtil = max(maxUtil, min_value(board));
+					board[i][j] = EMPTY;
+
+				}
 			}
 		}
+		return maxUtil;
 	}
 
 }
@@ -351,6 +385,47 @@ int min_value(vector<vector<int>>& board)
 	int column = board[0].size();
 
 	// fill in this part
+
+	if (terminal_test(board) == 0)
+	{
+		//tie
+		return 0;
+	}
+	else if (terminal_test(board) == -1)
+	{
+		//oppo wins
+		return -1;
+	}
+	else if (terminal_test(board) == 1)
+	{
+		//AI wins
+		return 1;
+	}
+	else
+	{
+		int minUtil = 1000;
+		for (int i = 0; i < row; i++)
+		{
+			for (int j = 0; j < column; j++)
+			{
+				if (board[i][j] == EMPTY)
+				{
+					if (wentFirst == 0)
+					{
+						board[i][j] = PLAYX;
+					}
+					else if (wentFirst == 1)
+					{
+						board[i][j] = PLAYO;
+					}
+
+					minUtil = min(minUtil, max_value(board));
+					board[i][j] = EMPTY;
+				}
+			}
+		}
+		return minUtil;
+	}
 
 
 
