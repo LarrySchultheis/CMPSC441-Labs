@@ -293,6 +293,11 @@ pair<int, int> minimax_decision(vector<vector<int>>& board)
 
 				// undo the simulated action by setting the board back to original state
 
+				maxUtil = -1000;
+				minUtil = 1000;
+
+
+
 				vector<vector<int>> b(row, vector<int>(column, EMPTY));
 				for (int i = 0; i < b.size(); i++)
 				{
@@ -302,20 +307,20 @@ pair<int, int> minimax_decision(vector<vector<int>>& board)
 					}
 				}
 
-				if (wentFirst == 0)
-				{
-					//opponent
-					b[i][j] = PLAYO;
-				}
-				else if (wentFirst == 1)
-				{
-					//AI
-					b[i][j] = PLAYX;
-				}
-				else
-					cerr << "Invalid value for wentFirst" << endl;
+				//if (wentFirst == 0)
+				//{
+				//	//opponent
+				//	board[i][j] = PLAYO;
+				//}
+				//else if (wentFirst == 1)
+				//{
+				//	//AI
+				//	board[i][j] = PLAYX;
+				//}
+				//else
+				//	cerr << "Invalid value for wentFirst" << endl;
 
-				currentVal = min_value(b);
+				currentVal = min_value(board);
 
 				if (currentVal > returnVal)
 				{
@@ -324,13 +329,13 @@ pair<int, int> minimax_decision(vector<vector<int>>& board)
 					returnVal = currentVal;
 				}
 
-				//for (int i = 0; i < b.size(); i++)
-				//{
-				//	for (int j = 0; j < b[0].size(); j++)
-				//	{
-				//		board[i][j] = b[i][j];
-				//	}
-				//}
+				for (int i = 0; i < b.size(); i++)
+				{
+					for (int j = 0; j < b[0].size(); j++)
+					{
+						board[i][j] = b[i][j];
+					}
+				}
 			}
 		}
 	}
@@ -362,7 +367,6 @@ int max_value(vector<vector<int>>& board)
 		return 0;
 	}
 
-	maxUtil = -1000;
 
 	for (int i = 0; i < row; i++)
 	{
@@ -372,11 +376,11 @@ int max_value(vector<vector<int>>& board)
 			{
 				if (wentFirst == 0)
 				{
-					board[i][j] = PLAYX;
+					board[i][j] = PLAYO;
 				}
 				else if (wentFirst == 1)
 				{
-					board[i][j] = PLAYO;
+					board[i][j] = PLAYX;
 				}
 				maxUtil = max(maxUtil, min_value(board));
 			}
@@ -410,7 +414,6 @@ int min_value(vector<vector<int>>& board)
 		return 0;
 	}
 
-	minUtil = 1000;
 
 	for (int i = 0; i < row; i++)
 	{

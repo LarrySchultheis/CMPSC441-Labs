@@ -738,3 +738,300 @@
 [lab8] Opponent has won
 == Log stopped ==
  
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] O - - 
+[lab8] Opponent has won
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] O - - 
+[lab8] Opponent has won
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] O - - 
+[lab8] Opponent has won
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] O - - 
+[lab8] Opponent has won
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] O - - 
+[lab8] Opponent has won
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] O - - 
+[lab8] Opponent has won
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] O - - 
+[lab8] Opponent has won
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] O - - 
+[lab8] Opponent has won
+== Log stopped ==
+ 
+== Log started ==
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[Minimax] X - - 
+[Minimax] - - - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X - - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X - 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] - O - 
+[Minimax] - - - 
+[Minimax] Enter your move:
+[lab8] The game is not finished
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] - - - 
+[Minimax] Move: 
+[Minimax] X X O 
+[Minimax] X O - 
+[Minimax] O - - 
+[lab8] Opponent has won
+== Log stopped ==
+ 
