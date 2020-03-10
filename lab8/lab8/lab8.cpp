@@ -277,7 +277,6 @@ pair<int, int> minimax_decision(vector<vector<int>>& board)
 	int newR = -1, newC = -1;
 
 	int returnVal = -100;
-	int currentVal = returnVal;
 
 	// for each action a which is row i and column j
 	for (int i = 0; i < row; i++) {
@@ -292,56 +291,16 @@ pair<int, int> minimax_decision(vector<vector<int>>& board)
 				// keep track of the row newR and column newC of the action with maximum return value				
 
 				// undo the simulated action by setting the board back to original state
-
-				maxUtil = -1000;
-				minUtil = 1000;
-
-
-
-				vector<vector<int>> b(row, vector<int>(column, EMPTY));
-				for (int i = 0; i < b.size(); i++)
-				{
-					for (int j = 0; j < b[0].size(); j++)
-					{
-						b[i][j] = board[i][j];
-					}
-				}
-
-				//if (wentFirst == 0)
-				//{
-				//	//opponent
-				//	board[i][j] = PLAYO;
-				//}
-				//else if (wentFirst == 1)
-				//{
-				//	//AI
-				//	board[i][j] = PLAYX;
-				//}
-				//else
-				//	cerr << "Invalid value for wentFirst" << endl;
-
-				currentVal = min_value(board);
-
-				if (currentVal > returnVal)
-				{
-					newR = i;
-					newC = j;
-					returnVal = currentVal;
-				}
-
-				for (int i = 0; i < b.size(); i++)
-				{
-					for (int j = 0; j < b[0].size(); j++)
-					{
-						board[i][j] = b[i][j];
-					}
-				}
 			}
+
 		}
 	}
+
 	return pair<int, int>(newR, newC);
 
 }
+
+
 
 
 // max value, returns a utility value of 
@@ -351,42 +310,35 @@ int max_value(vector<vector<int>>& board)
 	int row = board.size();
 	int column = board[0].size();
 
-	if (terminal_test(board) == 1)
-	{
-		//AI wins
-		return 1;
-	}
-	if (terminal_test(board) == -1)
-	{
-		//oppo wins
-		return -1;
-	}
+	// fill in this part
+
 	if (terminal_test(board) == 0)
 	{
 		//tie
 		return 0;
 	}
-
-
-	for (int i = 0; i < row; i++)
+	else if (terminal_test(board) == -1)
 	{
-		for (int j = 0; j < column; j++)
+		//oppo wins
+		return -1;
+	}
+	else if (terminal_test(board) == 1)
+	{
+		//AI wins
+		return 1;
+	}
+	else
+	{
+		maxUtil = -1000;
+		for (int i = 0; i < row; i++)
 		{
-			if (board[i][j] == EMPTY)
+			for (int j = 0; j < column; j++)
 			{
-				if (wentFirst == 0)
-				{
-					board[i][j] = PLAYO;
-				}
-				else if (wentFirst == 1)
-				{
-					board[i][j] = PLAYX;
-				}
-				maxUtil = max(maxUtil, min_value(board));
+				if (board[i][j] == )
 			}
 		}
 	}
-	return maxUtil;
+
 }
 
 
@@ -398,42 +350,8 @@ int min_value(vector<vector<int>>& board)
 	int row = board.size();
 	int column = board[0].size();
 
-	if (terminal_test(board) == 1)
-	{
-		//AI wins
-		return 1;
-	}
-	if (terminal_test(board) == -1)
-	{
-		//oppo wins
-		return -1;
-	}
-	if (terminal_test(board) == 0)
-	{
-		//tie
-		return 0;
-	}
+	// fill in this part
 
 
-	for (int i = 0; i < row; i++)
-	{
-		for (int j = 0; j < column; j++)
-		{
-			if (board[i][j] == EMPTY)
-			{
-				if (wentFirst == 0)
-				{
-					board[i][j] = PLAYX;
-				}
-				else if (wentFirst == 1)
-				{
-					board[i][j] = PLAYO;
-				}
-				minUtil = min(minUtil, max_value(board));
-
-			}
-		}
-	}
-	return minUtil;
 
 }
