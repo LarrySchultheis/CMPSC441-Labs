@@ -31,7 +31,6 @@ int main()
 
 	int row = 3;
 	int column = 3;
-	int goFirst;
 
 	// declare and initialize the board
 	vector<vector<int>> board(row, vector<int>(column, EMPTY));
@@ -40,22 +39,21 @@ int main()
 	//goFirst = 0 for opponent 
 
 
-	cin >> goFirst;
-	wentFirst = goFirst;
+	cin >> wentFirst;
 
 	while (true)
 	{
-		if (goFirst == 0)
+		if (wentFirst == 0)
 		{
 			//Opponent
-			oppoMove(board, goFirst);
-			aiMove(board, goFirst);
+			oppoMove(board, wentFirst);
+			aiMove(board, wentFirst);
 		}
-		else if (goFirst == 1)
+		else if (wentFirst == 1)
 		{
 			//AI
-			aiMove(board, goFirst);
-			oppoMove(board, goFirst);
+			aiMove(board, wentFirst);
+			oppoMove(board, wentFirst);
 		}
 		else
 		{
@@ -118,6 +116,7 @@ int terminal_test(vector<vector<int>>& board)
 		{
 			if (board[i][j] == EMPTY)
 			{
+				//if there are still empty spaces the game may not be over
 				gameOver = false;
 			}
 		}
@@ -199,9 +198,7 @@ int terminal_test(vector<vector<int>>& board)
 
 bool checkSpace(vector<vector<int>>& board, int row, int col)
 {
-	if (board[row][col] == EMPTY)
-		return true;
-	return false;
+	return (board[row][col] == EMPTY);
 }
 
 void aiMove(vector<vector<int>>& board, int goFirst)
@@ -314,9 +311,7 @@ pair<int, int> minimax_decision(vector<vector<int>>& board)
 
 		}
 	}
-
 	return pair<int, int>(newR, newC);
-
 }
 
 
@@ -366,7 +361,6 @@ int max_value(vector<vector<int>>& board)
 
 					maxUtil = max(maxUtil, min_value(board));
 					board[i][j] = EMPTY;
-
 				}
 			}
 		}
