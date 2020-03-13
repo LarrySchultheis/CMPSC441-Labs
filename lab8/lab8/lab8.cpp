@@ -420,7 +420,4 @@ int min_value(vector<vector<int>>& board)
 		}
 		return minUtil;
 	}
-
-
-
 }
