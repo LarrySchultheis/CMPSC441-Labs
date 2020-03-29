@@ -7,8 +7,7 @@
 #include <vector>
 using namespace std;
 
-const int gamma = 0.1;
-const int epsilon = 0.1;
+const float gamma = 0.1;
 
 // Q-learning steps
 
@@ -159,9 +158,39 @@ void printInfo(vector<vector<float>>& QTable, int state, int loc)
 // Select action a based on policy
 int selectAction(vector<vector<float>>& QTable, int state)
 {
-	double explorationRate = ((double)rand() / (RAND_MAX));
-	cout << explorationRate;
-	return rand() % 2;
+	//epsilon greedy policy
+
+	//get the exploration rate (random number betwen 0 and 1) 
+	float explorationRate = ((double)rand() / (RAND_MAX));
+
+	//set the highest q value to the first 
+	float highestQ = QTable[state][0];
+
+	//track the column (action)
+	int action = 0;
+
+	if (explorationRate > 0.1)
+	{
+		//choose best action
+		//for each action in the current state
+		for (int i = 0; i < QTable[state].size(); i++)
+		{
+			if (QTable[state][i] > highestQ)
+			{
+				//keep track of the highest q value and action
+				highestQ = QTable[state][i];
+				action = i;
+			}
+		}
+		
+		return action;
+	}
+	else
+	{
+		//choose random action
+		int randAction = rand() % 2;
+		return randAction;
+	}
 }
 
 
@@ -170,12 +199,27 @@ int selectAction(vector<vector<float>>& QTable, int state)
 // You have current location and previous location
 float obtainReward(vector<vector<float>>& QTable, int loc, int& previousLoc)
 {
-	return loc - previousLoc;
+	float reward = loc - previousLoc;
+	previousLoc = loc;
+	return reward;
 }
 
 
 // Update Q value of the current state and action
 void updateQ(vector<vector<float>>& QTable, int action, int state, int state_p, float reward)
 {
+	//set the highest q value to the first 
+	float bestAction = QTable[state_p][0];
 
+	//for each action in the current state
+	for (int i = 0; i < QTable[state_p].size(); i++)
+	{
+		//if the current action is better than the current best
+		//update the best action
+		if (QTable[state_p][i] > bestAction)
+			bestAction = QTable[state_p][i];
+	}
+
+	//Update this q value entry using the reward evaluation function
+	QTable[state][action] = reward + (gamma * bestAction);
 }
