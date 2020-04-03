@@ -14,7 +14,7 @@ using namespace std;
 // Select action a based on policy
 int selectAction(vector<vector<float>>& QTable, int state);
 // Perform action
-void performSelectedAction(vector<vector<float>>& QTable, int action, int state, int& state_p, int& loc);
+void performSelectedAction(vector<vector<float>>& QTable, int action, int action_p, int state, int& state_p, int& loc);
 // Calculate the reward r
 float obtainReward(vector<vector<float>>& QTable, int loc, int& previousLoc);
 // Update Q value of the current state and action
@@ -22,6 +22,9 @@ float obtainReward(vector<vector<float>>& QTable, int loc, int& previousLoc);
 float updateQ(vector<vector<float>>& QTable, int action, int state, int state_p, float reward);
 // Set state to be the next state, state_p
 void updateState(vector<vector<float>>& QTable, int& state, int state_p);
+
+void updateAction(vector<vector<float>>& QTable, int& action, int action_p);
+
 
 // Display info
 void printInfo(vector<vector<float>>& QTable, int state, int loc);
@@ -47,6 +50,7 @@ int main()
 
 	int state = 0;
 	int state_p = 0;
+	int action_p = 0;
 	int loc = 0;
 	int previousLoc = 0;
 
@@ -64,13 +68,14 @@ int main()
 
 		int action = selectAction(QTable, state);
 
-		performSelectedAction(QTable, action, state, state_p, loc);
+		performSelectedAction(QTable, action, action_p, state, state_p, loc);
 
 		float reward = obtainReward(QTable, loc, previousLoc);
 
 		float ret = updateQ(QTable, action, state, state_p, reward);
 
 		updateState(QTable, state, state_p);
+		updateAction(QTable, action, action_p);
 
 		//convergence check
 		for (int i = 0; i < QTable.size(); i++)
@@ -101,7 +106,7 @@ int main()
 // Perform action
 // The result of each action is set from the environment itself
 // and outside of the control of the learning algorithm
-void performSelectedAction(vector<vector<float>>& QTable, int action, int state, int& state_p, int& loc)
+void performSelectedAction(vector<vector<float>>& QTable, int action, int action_p, int state, int& state_p, int& loc)
 {
 
 	if (action == 0) {
@@ -149,16 +154,19 @@ void performSelectedAction(vector<vector<float>>& QTable, int action, int state,
 		}
 		state_p = 3;
 	}
-
+	action_p = action;
 }
 
 //  Set state to be the next state, state_p
 void updateState(vector<vector<float>>& QTable, int& state, int state_p)
 {
 	state = state_p;
-
 }
 
+void updateAction(vector<vector<float>>& QTable, int& action, int action_p)
+{
+	action = action_p;
+}
 
 void printInfo(vector<vector<float>>& QTable, int state, int loc)
 {
@@ -251,7 +259,7 @@ float updateQ(vector<vector<float>>& QTable, int action, int state, int state_p,
 {
 	//set the highest q value to the first 
 	float bestAction = QTable[state_p][0];
-	vector<vector<float>> OldQTable;
+	vector<vector<float>> OldQ;
 
 	//for each action in the current state
 	for (int i = 0; i < QTable[state_p].size(); i++)
@@ -262,11 +270,12 @@ float updateQ(vector<vector<float>>& QTable, int action, int state, int state_p,
 			bestAction = QTable[state_p][i];
 	}
 
+	int nextAction = selectAction(QTable, state);
 
-	OldQTable = QTable;
+	OldQ = QTable;
 	//Update this q value entry using the reward evaluation function
-	QTable[state][action] = QTable[state][action] + (alpha * (reward + (gamma * bestAction) - QTable[state][action]));
-	return abs(QTable[state_p][action] - OldQTable[state][action]);
+	QTable[state][action] = QTable[state][action] + (alpha * (reward + (gamma * nextAction) - QTable[state][action]));
+	return abs(QTable[state_p][action] - OldQ[state][action]);
 
 
 }
