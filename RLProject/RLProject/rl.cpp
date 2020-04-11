@@ -41,6 +41,9 @@ int oppoStoneskin = 0;
 int oppoStrengthEffect = 0;
 int endRound = 0; //0 - not finished, 1 - I won, 2 - Oppo won, 3 - both dead
 
+int health = 100;
+
+
 int main()
 {
 	srand(time(NULL));
@@ -68,8 +71,8 @@ int main()
 	{
 		//outer loop = num rounds
 
-		int health = 100;
 		int action;
+		health = 100;
 
 		while (true)
 		{
@@ -80,10 +83,8 @@ int main()
 
 			performSelectedAction(action, state);
 
-			cin >> endRound;
-
 			//check for end of round
-			if (endRound == 0)
+			if (endRound > 0)
 			{
 				//round over break inner loop
 				break;
@@ -133,6 +134,9 @@ void performSelectedAction(int action, vector<bool> &state)
 	cin >> oppoGlobeActive;
 	cin >> oppoStoneskin;
 	cin >> oppoStrengthEffect;
+	cin >> endRound;
+
+	health -= damageTaken;
 
 	state[0] = oppoGlobeActive ? 1 : true;
 	state[1] = oppoStoneskin ? 1 : true;
