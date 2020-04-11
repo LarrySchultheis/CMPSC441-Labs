@@ -225,7 +225,7 @@ int selectAction(vector<vector<float>>& QTable, int state)
 	else
 	{
 		//choose random action
-		int randAction = rand() % 2;
+		int randAction = rand() % 3;
 		return randAction;
 	}
 
