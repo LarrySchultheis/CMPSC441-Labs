@@ -1,3 +1,7 @@
+//Larry Schultheis
+//CMPSC 441
+//Lab 12 - RL project part 1
+
 #include <iostream>
 #include <time.h>
 #include <iomanip>
@@ -142,7 +146,6 @@ void performSelectedAction(int action, vector<bool> &state)
 	state[1] = oppoStoneskin ? 1 : true;
 	state[2] = strengthEffect ? 1 : true;
 	state[3] = oppoHealthSub10 ? 1 : true;
-
 
 }
 
